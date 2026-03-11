@@ -59,22 +59,18 @@ text
 
 Get your API key from [Google AI Studio](https://ai.google.dev/)
 
-## � My Development Process
+## 📱 Screenshots
 
-I personally developed this AI Career Mentor System from scratch, implementing:
+### Dashboard Overview
+<img width="1918" height="868" alt="AI Career Mentor Dashboard - Welcome back!" src="./dashboard-screenshot.png" />
 
-- **Frontend Architecture**: Built a responsive React application with component-based architecture
-- **AI Integration**: Integrated Google Gemini AI for intelligent resume analysis and interview coaching
-- **User Experience**: Designed an intuitive interface with smooth animations and transitions
-- **PDF Processing**: Implemented resume parsing and analysis capabilities
-- **Real-time Features**: Created interactive mock interviews and real-time feedback systems
-- **Modern UI/UX**: Utilized Tailwind CSS for a clean, professional design
-
-The project demonstrates my skills in full-stack development, AI integration, and creating user-centric applications.
-
-## �📱 Screenshots
-
-<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/bc167a11-3100-406f-86f8-2d7cfc62cbda" />
+The dashboard shows:
+- **Resume Score** - Track your resume optimization progress
+- **Interview Sessions** - Monitor your practice interview history  
+- **Job Matches** - View personalized job recommendations
+- **Skill Growth** - Track your skill development over time
+- **Quick Actions** - Easy access to analyze resume, practice interviews, and find jobs
+- **Recent Activity** - Stay updated with your latest career coaching activities
 
 ## 🚀 Deployment
 
@@ -114,3 +110,5 @@ text
 3. Commit changes: `git commit -m 'Add amazing feature'`
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
+
+
