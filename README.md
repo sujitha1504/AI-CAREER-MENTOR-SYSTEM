@@ -1,6 +1,6 @@
 # 🚀 AI Career Mentor System
 
-AI Career Mentor System is an AI-powered career coaching platform that helps professionals optimize their resumes, practice interviews, and find the perfect job matches.
+AI Career Mentor System is an AI-powered career coaching platform that I developed to help professionals optimize their resumes, practice interviews, and find the perfect job matches.
 
 ## ✨ Features
 
@@ -10,19 +10,23 @@ AI Career Mentor System is an AI-powered career coaching platform that helps pro
 - **📊 Career Dashboard** - Track your progress and improvements
 - **🔒 Privacy First** - All data stored locally in your browser
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Implemented
 
-- **React 18** + **Vite** - Fast development and build
-- **Tailwind CSS** - Modern styling
-- **Framer Motion** - Smooth animations
-- **Google Gemini AI** - Intelligent analysis
-- **PDF.js** - Resume processing
+I developed this project using the following modern technologies:
+
+- **React 18** + **Vite** - For fast development and optimized builds
+- **Tailwind CSS** - For modern, responsive styling
+- **Framer Motion** - For smooth animations and transitions
+- **Google Gemini AI** - For intelligent analysis and coaching
+- **PDF.js** - For resume document processing
+- **Lucide React** - For beautiful icons
+- **React Markdown** - For formatted text rendering
 
 ## 🚀 Quick Start
 
 1. **Clone the repository**
-git clone https://github.com/MiteshSakhare/NextGen-Coach
-cd nextgen-coach
+git clone <your-repository-url>
+cd AI-Career-Mentor-System
 
 text
 
@@ -55,7 +59,20 @@ text
 
 Get your API key from [Google AI Studio](https://ai.google.dev/)
 
-## 📱 Screenshots
+## � My Development Process
+
+I personally developed this AI Career Mentor System from scratch, implementing:
+
+- **Frontend Architecture**: Built a responsive React application with component-based architecture
+- **AI Integration**: Integrated Google Gemini AI for intelligent resume analysis and interview coaching
+- **User Experience**: Designed an intuitive interface with smooth animations and transitions
+- **PDF Processing**: Implemented resume parsing and analysis capabilities
+- **Real-time Features**: Created interactive mock interviews and real-time feedback systems
+- **Modern UI/UX**: Utilized Tailwind CSS for a clean, professional design
+
+The project demonstrates my skills in full-stack development, AI integration, and creating user-centric applications.
+
+## �📱 Screenshots
 
 <img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/bc167a11-3100-406f-86f8-2d7cfc62cbda" />
 
@@ -97,7 +114,3 @@ text
 3. Commit changes: `git commit -m 'Add amazing feature'`
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
