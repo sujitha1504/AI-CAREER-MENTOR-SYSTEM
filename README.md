@@ -59,11 +59,6 @@ text
 
 Get your API key from [Google AI Studio](https://ai.google.dev/)
 
-## 📱 Screenshots
-
-### Dashboard Overview
-<img width="1918" height="868" alt="AI Career Mentor Dashboard - Welcome back!" src="https://raw.githubusercontent.com/sujitha1504/AI-CAREER-MENTOR-SYSTEM/main/dashboard-screenshot.png" />
-
 The dashboard shows:
 - **Resume Score** - Track your resume optimization progress
 - **Interview Sessions** - Monitor your practice interview history  
